@@ -1,18 +1,18 @@
-┌──────────────────────────────────────────────────────────────┐
-│                    DEVELOPER PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NOME        :: EDUARDO FARIA                                │
-│  PAPEL       :: Desenvolvedor / Estudante                    │
-│  LOCALIZAÇÃO :: Brasil 🇧🇷                                    │
-│  STATUS      :: Estudando & Construindo                      │
-│  INTERESTS   :: Software • AI • Technology                   │
-│                                                              │
-│  > Transformando ideias em código.                           │
-│  > Construindo projetos.                                     │
-│  > Aprendendo algo novo todos os dias.                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐<br>
+│                    DEVELOPER PROFILE                         │<br>
+├──────────────────────────────────────────────────────────────┤<br>
+│                                                              │<br>
+│  NOME        :: EDUARDO FARIA                                │<br>
+│  PAPEL       :: Desenvolvedor / Estudante                    │<br>
+│  LOCALIZAÇÃO :: Brasil 🇧🇷                                    │<br>
+│  STATUS      :: Estudando & Construindo                      │<br>
+│  INTERESTS   :: Software • AI • Technology                   │<br>
+│                                                              │<br>
+│  > Transformando ideias em código.                           │<br>
+│  > Construindo projetos.                                     │<br>
+│  > Aprendendo algo novo todos os dias.                       │<br>
+│                                                              │<br>
+└──────────────────────────────────────────────────────────────┘<br>
 
 Sou estudante do IF Goiano do curso BCC, tenho interesse em
 tecnologia e desenvolvimento de software e estou buscando
