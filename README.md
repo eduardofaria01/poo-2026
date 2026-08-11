@@ -14,19 +14,19 @@
 │                                                              │<br>
 └──────────────────────────────────────────────────────────────┘<br>
 
-Sou estudante do IF Goiano do curso BCC, tenho interesse em
-tecnologia e desenvolvimento de software e estou buscando
-melhorar minhas habilidades como desenvolvedor.
+Sou estudante do IF Goiano do curso BCC, tenho interesse em<br>
+tecnologia e desenvolvimento de software e estou buscando<br>
+melhorar minhas habilidades como desenvolvedor.<br>
 
-OBJETIVO
+OBJETIVO<br>
 
-[✓] Aprender fundamentos de programação
-[✓] Configurar Git e GitHub
-[✓] Criar meus primeiros repositórios
-[✓] Estudar Programação Orientada a Objetos
+[✓] Aprender fundamentos de programação<br>
+[✓] Configurar Git e GitHub<br>
+[✓] Criar meus primeiros repositórios<br>
+[✓] Estudar Programação Orientada a Objetos<br>
 
-[>] Evoluir em Java
-[>] Desenvolver projetos pessoais
-[>] Aprender desenvolvimento de APIs
+[>] Evoluir em Java<br>
+[>] Desenvolver projetos pessoais<br>
+[>] Aprender desenvolvimento de APIs<br>
 [>] Estudar bancos de dados
 [>] Explorar Inteligência Artificial
